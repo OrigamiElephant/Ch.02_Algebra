@@ -3,16 +3,16 @@ HONOR CODE: I solemnly promise that while taking this test I will only use PyCha
 but I will definitely not ask another person except the instructor. Signed: Ezra McCulley
 
 1.) How do you enter a single line comment in a program?
-
+have the three commas and the comment on the same line
 
 
 
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
-2 / 3
-2 // 3
-3/2
-3//2
-
+2 / 3 = 0.6666666666666
+2 // 3 = 0
+3/2 = 1.5
+3//2 = 1
+    The amount of slashes and spaces between the numbers are programmed as different equations
 
 
 
@@ -21,7 +21,7 @@ but I will definitely not ask another person except the instructor. Signed: Ezra
 A = 22
 b = 13
 c = a+b
-
+    c equals 35, because c is equal to a added to b its value is the addition of what a and b represent
 
 
 
@@ -36,7 +36,7 @@ area
 area_of_rectangle
 Area_Of_Rectangle
 
-
+    a
 
 
 
@@ -66,8 +66,7 @@ x2x
 total%
 #left
 
-
-
+    1Apple, 2x, #left, account number: All of these variables are invalid
 
 
 
@@ -80,8 +79,8 @@ a-=7
 a
 type(a)
 
-
-
+    a=5
+    a=15
 
 
 
@@ -93,16 +92,16 @@ pi = x
 area = pi  * radius ** 2
 area
 
-
+    change line 91 and 92 to just pi = 3.14
 
 
 
 
 8.) What is the ouput of each of these?
-type(42)
-type(42.0)
-type("C3PO")
-type(True)
+type(42)    42
+type(42.0)  42.0
+type("C3PO") 'C3PO'
+type(True)  True
 
 
 
@@ -113,7 +112,7 @@ type(True)
 9.) Fix the mistake in the following code:
 x = 4
 y = 5
-a = 3(x + y)
+a = 3*(x + y)
 a
 
 
@@ -125,7 +124,7 @@ a
 x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
-
+    Because it divides z by 3 before adding
 
 
 
