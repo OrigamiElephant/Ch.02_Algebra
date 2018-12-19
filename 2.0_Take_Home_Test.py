@@ -3,7 +3,7 @@ HONOR CODE: I solemnly promise that while taking this test I will only use PyCha
 but I will definitely not ask another person except the instructor. Signed: Ezra McCulley
 
 1.) How do you enter a single line comment in a program?
-have the three commas and the comment on the same line
+Put a pound symbol before the line, #
 
 
 
@@ -12,7 +12,7 @@ have the three commas and the comment on the same line
 2 // 3 = 0
 3/2 = 1.5
 3//2 = 1
-    The amount of slashes and spaces between the numbers are programmed as different equations
+The double forward slash takes off any numbers after a decimal
 
 
 
@@ -66,7 +66,7 @@ x2x
 total%
 #left
 
-    1Apple, 2x, #left, account number: All of these variables are invalid
+    1Apple, 2x, #left, account number
 
 
 
@@ -79,8 +79,8 @@ a-=7
 a
 type(a)
 
-    a=5
-    a=15
+    a=5, prediction
+    a=15, answer
 
 
 
@@ -92,7 +92,7 @@ pi = x
 area = pi  * radius ** 2
 area
 
-    change line 91 and 92 to just pi = 3.14
+    Make it so pi directly equals 3.14
 
 
 
