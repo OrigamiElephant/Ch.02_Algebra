@@ -21,7 +21,7 @@ The double forward slash takes off any numbers after a decimal
 A = 22
 b = 13
 c = a+b
-    c equals 35, because c is equal to a added to b its value is the addition of what a and b represent
+  It doesn't work because the c uses lowercase "a" when the variable is an uppercase "A"
 
 
 
@@ -36,7 +36,7 @@ area
 area_of_rectangle
 Area_Of_Rectangle
 
-    a
+    area_of_rectangle
 
 
 
@@ -66,7 +66,7 @@ x2x
 total%
 #left
 
-    1Apple, 2x, #left, account number
+    1Apple, 2x, #left, account number, account.number, account#, great.big.variable, total%,
 
 
 
@@ -80,7 +80,7 @@ a
 type(a)
 
     a=5, prediction
-    a=15, answer
+   Float, a=15, answer
 
 
 
@@ -98,10 +98,10 @@ area
 
 
 8.) What is the ouput of each of these?
-type(42)    42
-type(42.0)  42.0
-type("C3PO") 'C3PO'
-type(True)  True
+type(42)    42, integer
+type(42.0)  42.0, floater
+type("C3PO") 'C3PO', string
+type(True)  True, bool
 
 
 
@@ -125,7 +125,7 @@ x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
     Because it divides z by 3 before adding
-
+ave = (x+y+z) / 3
 
 
 
