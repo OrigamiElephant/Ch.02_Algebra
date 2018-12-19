@@ -16,7 +16,7 @@ The double forward slash takes off any numbers after a decimal
 
 
 
-
+INCORRECT. You need to try it out and read the error.
 3.) What happens when you try this and why?
 A = 22
 b = 13
@@ -26,7 +26,7 @@ c = a+b
 
 
 
-
+Incorrect: pick the variable that is the best description
 4.) All of the variable names below can be used. But which ONE of these is the better variable name to use?
 a
 A
@@ -39,7 +39,7 @@ Area_Of_Rectangle
     a
 
 
-
+Incorrect: There are many more. Try them out in the python console
 5.) Which of these variables names are NOT allowed in Python? 
 Test them if you aren't sure.
 
@@ -69,7 +69,7 @@ total%
     1Apple, 2x, #left, account number
 
 
-
+Incorrect: What was the type?
 6.) Predict the output of (a) and its type and then test it?
 a =2
 a*=10
@@ -96,7 +96,7 @@ area
 
 
 
-
+Incorrect, what were the types when you ran these in the Python Console?
 8.) What is the ouput of each of these?
 type(42)    42
 type(42.0)  42.0
@@ -119,7 +119,7 @@ a
 
 
 
-
+Incorrect: Please fix the code.
 10.)Why does this code not calculate the average?
 x,y,z =(3,4,5)
 ave = x+y+z/3
