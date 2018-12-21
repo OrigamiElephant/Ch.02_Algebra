@@ -124,7 +124,7 @@ a
 x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
-    Because it divides z by 3 before adding
+    Because it divides z by 3 before it adds
 ave = (x+y+z) / 3
 
 
